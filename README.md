@@ -11,7 +11,6 @@
 
 </div>
 
-![Showcase Gif](home/Pictures/Records/record.gif)
 
 ## Table of Contents
 - [About](#-about)
