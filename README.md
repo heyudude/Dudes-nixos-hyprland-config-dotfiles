@@ -1,4 +1,3 @@
-<div align="center"><img src="[home/.config/neofetch/logo_nixos.png](https://laboratoriolinux.es/index.php/-noticias-mundo-linux-/distribuciones/36224-nixos-24-05-actualiza-a-kde-plasma-6-gnome-46-y-linux-6-6-e-incorpora-a-lomiri.html)"></div>
 <h1 align="center">NixOS & Hyprland with Catppuccin Macchiato Theme Configuration</h1>
 
 <div align="center">
